@@ -1,0 +1,32 @@
+{
+    "financialAnalysis": {
+      "revenue": [
+        { "month": "January", "amount": 5000 },
+        { "month": "February", "amount": 6000 },
+        { "month": "March", "amount": 7000 },
+        { "month": "April", "amount": 5500 },
+        { "month": "May", "amount": 8000 }
+      ],
+      "expenses": [
+        { "month": "January", "amount": 3000 },
+        { "month": "February", "amount": 3500 },
+        { "month": "March", "amount": 4000 },
+        { "month": "April", "amount": 3200 },
+        { "month": "May", "amount": 5000 }
+      ]
+    },
+    "patientSatisfaction": {
+      "surveyResults": [
+        { "month": "January", "score": 4.5 },
+        { "month": "February", "score": 4.7 },
+        { "month": "March", "score": 4.2 },
+        { "month": "April", "score": 4.6 },
+        { "month": "May", "score": 4.8 }
+      ],
+      "feedbackAnalysis": {
+        "positiveFeedback": 85,
+        "negativeFeedback": 15
+      }
+    }
+  }
+  
